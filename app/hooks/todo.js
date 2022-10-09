@@ -14,8 +14,8 @@ let dummyTodos = [
     {
         account:{
             idx: '0',
-            content: 'Finish the essay collaboration',
-            marked: false,
+            content: 'learn solana2',
+            marked: true,
         }
 
     },
@@ -23,7 +23,7 @@ let dummyTodos = [
         account:{
             idx: '1',
             content: 'Understand Static Todo App',
-            marked: false,          
+            marked: true,          
         }
 
     },
